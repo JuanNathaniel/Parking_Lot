@@ -1,1 +1,3 @@
-Hello World!!!
+Note!!!
+
+Integration Testing hanya dilakukan pada 2 class karena class lain bersifat independent sehingga tidak perlu dilakukan Integration Testing, sedangkan class yang dilakukan Integration bersifat Dependent seperti ParkingTicket dimana Ticket berhubungan langsung dengan objek Car.
